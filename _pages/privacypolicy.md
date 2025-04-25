@@ -1,60 +1,89 @@
+# **Politique de Confidentialité - Ozratu**
+
+**Dernière modification : 25/09/2024**
+
 ---
-layout: page
-title: Privacy Policy
-include_in_header: false
+
+## **1. Introduction**
+
+Bienvenue sur **Ozratu** ! Nous accordons une grande importance à la confidentialité de nos utilisateurs. Cette politique a pour but de vous expliquer quelles données nous collectons, comment nous les utilisons, et quels sont vos droits concernant vos informations.
+
 ---
 
-**Last updated**  
-August 1 2019
+## **2. Quelles données collectons-nous ?**
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Nous ne collectons **aucune donnée personnelle identifiable** sur nos serveurs. Cependant, nous utilisons des outils d’analyse tiers (**Firebase Analytics** et **Mixpanel**) pour collecter des **données d’usage anonymisées** afin d’améliorer votre expérience.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Les types de données collectées incluent :
 
-<br>
+- **Statistiques d'utilisation** : durée des sessions, écrans visités, actions effectuées dans l'application.
+- **Interactions** : fréquence d'utilisation de certaines fonctionnalités.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+Ces données sont **anonymes** et ne contiennent aucune information permettant de vous identifier directement.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+---
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## **3. Utilisation des données**
 
-<br>
+Les données collectées via Firebase et Mixpanel sont utilisées exclusivement pour :
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+- **Améliorer l’application** : analyser les comportements d’usage pour offrir la meilleure expérience possible.
+- **Statistiques internes** : comprendre quelles fonctionnalités sont populaires et optimiser leur fonctionnement.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+Nous ne partageons ni ne vendons vos données à des tiers.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+---
 
-<br>
+## **4. Services tiers**
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+Nous utilisons les services tiers suivants pour l'analyse des comportements d'utilisation de l'application :
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+- **Firebase Analytics** (Google)
+- **Mixpanel**
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Ces services collectent des données anonymisées conformément à leurs propres politiques de confidentialité.
 
-<br>
+---
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## **5. Sécurité des données**
 
-<br>
+La sécurité de vos données est notre priorité :
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+- Nous ne stockons **aucune donnée personnelle** sur nos propres serveurs.
+- Les données collectées via des services tiers sont protégées par des mesures de sécurité conformes aux standards de l'industrie.
+
+---
+
+## **6. Vos droits**
+
+En tant qu’utilisateur, vous avez le droit de :
+
+- Accéder aux données collectées.
+- Demander la suppression des données via les paramètres des services tiers (Firebase et Mixpanel).
+
+Pour toute demande liée à vos droits, vous pouvez nous contacter directement via l'email ci-dessous.
+
+---
+
+## **7. Modifications de la politique de confidentialité**
+
+Nous nous réservons le droit de modifier cette politique à tout moment. Toute modification sera publiée sur cette page et prendra effet immédiatement. Nous vous encourageons à consulter régulièrement cette politique pour rester informé.
+
+---
+
+## **8. Contact**
+
+Pour toute question ou préoccupation, contactez-nous :
+
+📧 **isdlf.pro@gmail.com**
+
+Vous pouvez également nous contacter directement depuis l’application :
+
+- Allez dans la page **"Paramètres"** (icône en haut à droite).
+- Cliquez sur l'onglet **"Nous Contacter"**.
+
+---
+
+## **9. Date d’entrée en vigueur**
+
+Cette politique de confidentialité est effective à partir du **25/09/2024**.
